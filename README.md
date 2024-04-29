@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá, 👋
 
-<!--
-**Professora-Thais/Professora-Thais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Eu sou a Professora Thaís**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Estou estudando na [Alura](https://www.alura.com.br);
+- Estou me desenvolvendo na Linguagem JavaScript;
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+
+
+**meu contato:**
+
+thaisfragoso@prof.educacao.sp.gov.br
+
+@thaisfragoso_
+
+![](https://media.tenor.com/V9-CgNCwFBYAAAAi/experience-green-liquid.gif)
+ 
